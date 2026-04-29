@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd portfolio
+   cd DVA_Portfolio
    ```
 
 3. **Install dependencies**:
